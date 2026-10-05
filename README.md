@@ -12,18 +12,17 @@ I build research-to-prototype AI systems using PyTorch, with current work spanni
 
 ## Featured Projects
 
-### SurfaceGuard AI
+### [SurfaceGuard AI](https://github.com/marwanalzawahra/SurfaceGuard-AI-Visual-Inspection)
 Client-specific visual anomaly inspection for industrial quality control using normal-only calibration, patch-level embeddings, memory-bank anomaly scoring, anomaly evidence maps, and PASS / REVIEW decision support.
 
 ### [ReproTrace](https://github.com/marwanalzawahra/ReproTrace-Research-Auditor)
 Research reproducibility and provenance auditing for tracing claims, code, metrics, and experimental evidence.
 
-### WSAD-UCF-Crime
+### [WSAD-UCF-Crime](https://github.com/marwanalzawahra/wsad-ucf-crime)
 Weakly supervised video anomaly detection experiments involving MIL pooling, cross-domain evaluation, and domain adaptation.
 
 ### [Fahim Diagnostics](https://github.com/marwanalzawahra/fahim-diagnostics)
 Diagnostic mathematics assessment system with misconception detection, skill profiling, teacher dashboard, and Supabase-backed attempt tracking.
-
 ## Research & Engineering Interests
 
 Computer Vision • Visual Anomaly Detection • Weak Supervision • Domain Generalization • Industrial AI • Reliable AI Systems
