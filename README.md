@@ -15,7 +15,7 @@ I build research-to-prototype AI systems using PyTorch, with current work spanni
 ### SurfaceGuard AI
 Client-specific visual anomaly inspection for industrial quality control using normal-only calibration, patch-level embeddings, memory-bank anomaly scoring, anomaly evidence maps, and PASS / REVIEW decision support.
 
-### ReproTrace
+### [ReproTrace](https://github.com/marwanalzawahra/ReproTrace-Research-Auditor)
 Research reproducibility and provenance auditing for tracing claims, code, metrics, and experimental evidence.
 
 ### WSAD-UCF-Crime
