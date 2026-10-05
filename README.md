@@ -21,8 +21,8 @@ Research reproducibility and provenance auditing for tracing claims, code, metri
 ### WSAD-UCF-Crime
 Weakly supervised video anomaly detection experiments involving MIL pooling, cross-domain evaluation, and domain adaptation.
 
-### Fahim
-Diagnostic learning analytics system for detecting recurring mathematical misconceptions and prioritizing targeted interventions.
+### [Fahim Diagnostics](https://github.com/marwanalzawahra/fahim-diagnostics)
+Diagnostic mathematics assessment system with misconception detection, skill profiling, teacher dashboard, and Supabase-backed attempt tracking.
 
 ## Research & Engineering Interests
 
